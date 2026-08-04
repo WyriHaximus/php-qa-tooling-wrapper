@@ -1,0 +1,73 @@
+{
+    "name": "wyrihaximus/qa-tooling-wrapper",
+    "description": "🌯 QA tooling wrapper for `wyrihaximus/test-utilities`",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Cees-Jan Kiewiet",
+            "email": "ceesjank@gmail.com"
+        }
+    ],
+    "require": {
+        "php": "^8.4",
+        "ergebnis/composer-normalize": "^2.52.0",
+        "ergebnis/phpunit-slow-test-detector": "^2.24.0",
+        "icanhazstring/composer-unused": "^0.9.6",
+        "infection/infection": "^0.34.0",
+        "maglnet/composer-require-checker": "^4.20.0",
+        "mockery/mockery": "^1.6.12",
+        "php-parallel-lint/php-console-highlighter": "^1.0.0",
+        "php-parallel-lint/php-parallel-lint": "^1.4.0",
+        "phpstan/phpstan": "^2.2.5",
+        "phpunit/phpunit": "^13.2.4",
+        "rector/rector": "^2.5.7",
+        "roave/backward-compatibility-check": "^8.19.0",
+        "shipmonk/coverage-guard": "^1.1.0",
+        "squizlabs/php_codesniffer": "^4.0.1",
+        "wyrihaximus/coding-standard": "^4.2.0",
+        "wyrihaximus/phpstan-rules-wrapper": "^14.1.0"
+    },
+    "require-dev": {
+        "wyrihaximus/makefiles": "^0.13.3"
+    },
+    "conflict": {
+        "composer-unused/symbol-parser": "<0.3.3",
+        "composer/pcre": "<3.3.2",
+        "sanmai/di-container": "<0.1.17",
+        "sanmai/pipeline": "<7.9"
+    },
+    "config": {
+        "allow-plugins": {
+            "composer-unused/composer-unused-plugin": true,
+            "composer/package-versions-deprecated": true,
+            "dealerdirect/phpcodesniffer-composer-installer": true,
+            "ergebnis/composer-normalize": true,
+            "icanhazstring/composer-unused": true,
+            "infection/extension-installer": true,
+            "phpstan/extension-installer": true,
+            "wyrihaximus/makefiles": true
+        },
+        "platform": {
+            "php": "8.4.13"
+        },
+        "sort-packages": true
+    },
+    "extra": {
+        "wyrihaximus": {
+            "supported-features": {
+                "code-style": false,
+                "composer-dependency-checkers": false,
+                "static-analysis": false,
+                "unit-tests": false
+            }
+        }
+    },
+    "scripts": {
+        "post-install-cmd": [
+            "make on-install-or-update || true"
+        ],
+        "post-update-cmd": [
+            "make on-install-or-update || true"
+        ]
+    }
+}
