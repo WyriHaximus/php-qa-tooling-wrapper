@@ -37,7 +37,6 @@ Works out of the box when combined with [`wyrihaximus/makefiles`](https://github
 * [`shipmonk/coverage-guard`](https://packagist.org/packages/shipmonk/coverage-guard)
 * [`squizlabs/php_codesniffer`](https://packagist.org/packages/squizlabs/php_codesniffer)
 * [`wyrihaximus/coding-standard`](https://packagist.org/packages/wyrihaximus/coding-standard)
-* [`wyrihaximus/phpstan-rules-wrapper`](https://packagist.org/packages/wyrihaximus/phpstan-rules-wrapper)
 <!-- included-tooling:end -->
 
 # License
