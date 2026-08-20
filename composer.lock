@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "cae62533312f43551a5b7991bddac8bc",
+    "content-hash": "cb6bd7f903880b09025c996f64fdd22f",
     "packages": [
         {
             "name": "azjezz/psl",
@@ -2055,16 +2055,16 @@
         },
         {
             "name": "infection/infection",
-            "version": "0.35.1",
+            "version": "0.35.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/infection/infection.git",
-                "reference": "6299f6b4cde50b553153ce40d030672c309806b5"
+                "reference": "c7ad005fc541b36952781b3ab602a4648cd9e9c8"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/infection/infection/zipball/6299f6b4cde50b553153ce40d030672c309806b5",
-                "reference": "6299f6b4cde50b553153ce40d030672c309806b5",
+                "url": "https://api.github.com/repos/infection/infection/zipball/c7ad005fc541b36952781b3ab602a4648cd9e9c8",
+                "reference": "c7ad005fc541b36952781b3ab602a4648cd9e9c8",
                 "shasum": ""
             },
             "require": {
@@ -2179,7 +2179,7 @@
             ],
             "support": {
                 "issues": "https://github.com/infection/infection/issues",
-                "source": "https://github.com/infection/infection/tree/0.35.1"
+                "source": "https://github.com/infection/infection/tree/0.35.2"
             },
             "funding": [
                 {
@@ -2191,7 +2191,7 @@
                     "type": "open_collective"
                 }
             ],
-            "time": "2026-08-19T14:51:41+00:00"
+            "time": "2026-08-19T21:14:49+00:00"
         },
         {
             "name": "infection/mutator",
