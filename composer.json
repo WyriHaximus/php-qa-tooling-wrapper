@@ -21,7 +21,7 @@
         "phpstan/phpstan": "^2.3.0",
         "phpunit/phpunit": "^13.4.1",
         "rector/rector": "^2.7.0",
-        "roave/backward-compatibility-check": "^8.19.0",
+        "roave/backward-compatibility-check": "^8.23.0",
         "shipmonk/coverage-guard": "^1.1.0",
         "squizlabs/php_codesniffer": "^4.0.4",
         "wyrihaximus/coding-standard": "^4.3.0"
