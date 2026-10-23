@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "9e2253e434353ba23be80fd76aa4e1a2",
+    "content-hash": "6c85cfc9f2e0586f862c0c47e682fffa",
     "packages": [
         {
             "name": "azjezz/psl",
@@ -5897,16 +5897,16 @@
         },
         {
             "name": "shipmonk/coverage-guard",
-            "version": "1.1.0",
+            "version": "1.2.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/shipmonk-rnd/coverage-guard.git",
-                "reference": "b969686103cd4b3eae85558b34898ef29535f2f0"
+                "reference": "0ed07ccc07ff7c7a7f8bee8e121d22e34f06e5f2"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/shipmonk-rnd/coverage-guard/zipball/b969686103cd4b3eae85558b34898ef29535f2f0",
-                "reference": "b969686103cd4b3eae85558b34898ef29535f2f0",
+                "url": "https://api.github.com/repos/shipmonk-rnd/coverage-guard/zipball/0ed07ccc07ff7c7a7f8bee8e121d22e34f06e5f2",
+                "reference": "0ed07ccc07ff7c7a7f8bee8e121d22e34f06e5f2",
                 "shasum": ""
             },
             "require": {
@@ -5919,9 +5919,9 @@
                 "phpstan/phpstan": "2.2.0",
                 "phpstan/phpstan-phpunit": "2.0.16",
                 "phpstan/phpstan-strict-rules": "2.0.11",
-                "phpunit/php-code-coverage": "^10.1",
-                "phpunit/phpunit": "~10.5.58",
-                "sebastian/diff": "^4.0 || ^5.0 || ^6.0 || ^7.0",
+                "phpunit/php-code-coverage": "^10.1 || ^11.0 || ^12.0 || ^13.0 || ^14.0",
+                "phpunit/phpunit": "~10.5.58 || ^11.5 || ^12.5 || ^13.3",
+                "sebastian/diff": "^5.1.1 || ^6.0 || ^7.0 || ^8.0 || ^9.0",
                 "shipmonk/coding-standard": "^0.2.4",
                 "shipmonk/composer-dependency-analyser": "1.8.4",
                 "shipmonk/dead-code-detector": "^1.0",
@@ -5951,9 +5951,9 @@
             ],
             "support": {
                 "issues": "https://github.com/shipmonk-rnd/coverage-guard/issues",
-                "source": "https://github.com/shipmonk-rnd/coverage-guard/tree/1.1.0"
+                "source": "https://github.com/shipmonk-rnd/coverage-guard/tree/1.2.0"
             },
-            "time": "2026-07-17T10:37:46+00:00"
+            "time": "2026-10-20T08:43:26+00:00"
         },
         {
             "name": "slevomat/coding-standard",
