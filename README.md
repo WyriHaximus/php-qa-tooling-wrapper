@@ -17,7 +17,7 @@ composer require --dev wyrihaximus/qa-tooling-wrapper
 
 # Usage
 
-Works out of the box when combined with [`wyrihaximus/makefiles`](https://github.com/WyriHaximus/php-makefiles) or your own QA configuration.
+Works out of the box when combined with [`wyrihaximus/makefiles`](https://github.com/WyriHaximus/makefiles) or your own QA configuration.
 
 # Included tooling
 
