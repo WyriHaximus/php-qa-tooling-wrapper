@@ -20,7 +20,7 @@
         "php-parallel-lint/php-parallel-lint": "^1.4.0",
         "phpstan/phpstan": "^2.3.3",
         "phpunit/phpunit": "^13.4.5",
-        "rector/rector": "^2.8.1",
+        "rector/rector": "^2.8.2",
         "roave/backward-compatibility-check": "^8.19.0",
         "shipmonk/coverage-guard": "^1.2.0",
         "squizlabs/php_codesniffer": "^4.0.4",
