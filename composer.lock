@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "e82fe8173c322fc6ddc325cfab199915",
+    "content-hash": "fefe243029b8789e2c8cdd2d10c2cd6a",
     "packages": [
         {
             "name": "azjezz/psl",
@@ -1785,16 +1785,16 @@
         },
         {
             "name": "icanhazstring/composer-unused",
-            "version": "0.9.7",
+            "version": "0.9.8",
             "source": {
                 "type": "git",
                 "url": "https://github.com/composer-unused/composer-unused.git",
-                "reference": "e1b1f4b4130b65c5bf036dbf435c0b9fe3f8c020"
+                "reference": "7374b91d32e2885a9458cd2c2c39fdc55a7c52d9"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/composer-unused/composer-unused/zipball/e1b1f4b4130b65c5bf036dbf435c0b9fe3f8c020",
-                "reference": "e1b1f4b4130b65c5bf036dbf435c0b9fe3f8c020",
+                "url": "https://api.github.com/repos/composer-unused/composer-unused/zipball/7374b91d32e2885a9458cd2c2c39fdc55a7c52d9",
+                "reference": "7374b91d32e2885a9458cd2c2c39fdc55a7c52d9",
                 "shasum": ""
             },
             "require": {
@@ -1882,7 +1882,7 @@
                     "type": "other"
                 }
             ],
-            "time": "2026-10-23T07:11:01+00:00"
+            "time": "2026-10-31T13:13:19+00:00"
         },
         {
             "name": "infection/abstract-testframework-adapter",
