@@ -3477,7 +3477,6 @@ that
 thatall
 thatnullor
 thecodingmachine
-theseer
 throwexception
 time
 time_nanosleep
@@ -3501,7 +3500,6 @@ to_intl_timezone
 to_iterator
 token_get_all
 token_name
-tokenizer
 topological_sort
 touch
 trait
