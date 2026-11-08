@@ -24,7 +24,7 @@
         "roave/backward-compatibility-check": "^8.19.0",
         "shipmonk/coverage-guard": "^1.2.0",
         "squizlabs/php_codesniffer": "^4.0.4",
-        "wyrihaximus/coding-standard": "^4.4.0"
+        "wyrihaximus/coding-standard": "^4.5.0"
     },
     "require-dev": {
         "wyrihaximus/makefiles": "^0.15.5"
