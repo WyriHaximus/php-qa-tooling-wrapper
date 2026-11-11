@@ -2108,7 +2108,6 @@
         "locale_parse",
         "locale_set_default",
         "localeconv",
-        "localheinz",
         "localtime",
         "log",
         "log10",
