@@ -27,7 +27,7 @@
         "wyrihaximus/coding-standard": "^4.5.0"
     },
     "require-dev": {
-        "wyrihaximus/makefiles": "^0.15.5"
+        "wyrihaximus/makefiles": "^0.15.6"
     },
     "conflict": {
         "composer-unused/symbol-parser": "<0.3.3",
