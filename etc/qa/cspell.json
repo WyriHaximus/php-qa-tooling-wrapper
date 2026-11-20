@@ -3470,7 +3470,6 @@
         "swoole_event_defer",
         "swoole_event_del",
         "swoole_event_write",
-        "symbol-parser",
         "symfony",
         "symlink",
         "sys_get_temp_dir",
