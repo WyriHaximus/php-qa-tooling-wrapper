@@ -11,7 +11,7 @@
     "require": {
         "php": "^8.4",
         "ergebnis/composer-normalize": "^2.56.0",
-        "ergebnis/phpunit-slow-test-detector": "^2.27.0",
+        "ergebnis/phpunit-slow-test-detector": "^2.29.0",
         "icanhazstring/composer-unused": "^0.9.8",
         "infection/infection": "^0.35.9",
         "maglnet/composer-require-checker": "^4.20.0",
@@ -19,7 +19,7 @@
         "php-parallel-lint/php-console-highlighter": "^1.0.0",
         "php-parallel-lint/php-parallel-lint": "^1.4.0",
         "phpstan/phpstan": "^2.3.5",
-        "phpunit/phpunit": "^13.4.6",
+        "phpunit/phpunit": "^13.4.8",
         "rector/rector": "^2.8.4",
         "roave/backward-compatibility-check": "^8.19.0",
         "shipmonk/coverage-guard": "^1.2.0",
