@@ -479,6 +479,7 @@ after
 after_ci
 after_last
 after_last_ci
+agent-detector
 all
 always_assert
 andanyotherargs
